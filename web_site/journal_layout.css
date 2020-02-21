@@ -1,0 +1,73 @@
+html{
+    background-image: url("images/lab3.jpg");
+}
+.content{
+    border: 10px white solid;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.top{
+    /*border: 5px red solid;*/
+    align-content: right;
+    text-align: right;
+    background-color: #A8F0F0;
+    
+}
+
+.inside_top{
+    /*border: 5px orange solid;*/
+    font-size: 14pt;
+    
+}
+
+.Body1{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5 px;
+    margin-top: 10px;
+    height: 200 px;
+    overflow: hidden;
+    
+}
+
+.spartulas{
+    border-bottom: 2px blue dashed;
+}
+
+.Body2{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.cookie{
+    border-bottom: 2px blue dashed;
+}
+
+.image1{
+    float: right;
+}
+
+.image2{
+    float: right;
+}
+
+.friends{
+    float: left;
+    height: 20%;
+    box-sizing: border-box;
+    border:5px #009097 solid;
+    background-color: #7fd8e0ea;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.bodies{
+    height: 80%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
